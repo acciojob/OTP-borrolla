@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const codes = document.querSelectorAll('.code');
+const codes = document.querySelectorAll('.code');
 codes[0].focus
 
 codes.forEach((code, idx) => {
